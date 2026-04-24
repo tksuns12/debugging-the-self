@@ -8,4 +8,5 @@ Supporting notes:
 
 - notes/raw-experience.md
 - notes/software-analogies.md
+- notes/seeing-as-a-whole.md
 - DISCLAIMER.md

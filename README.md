@@ -108,6 +108,50 @@ A feeling could appear without proving that there was a fixed self behind it.
 
 Everything was just happening.
 
+## Seeing as a whole
+
+There was a teaching I once heard from a Vipassana person.
+
+Someone asked what “from the source” means.
+
+The answer was something like:
+
+> Seeing as a whole is seeing from the source.
+
+At first, this sounded circular.
+
+What does “from the source” mean?  
+Seeing as a whole.
+
+What does “seeing as a whole” mean?  
+Seeing from the source.
+
+But after this realization, I understood it differently.
+
+Maybe the reason it sounds circular is that the source is not describable as an object in language.
+
+If I describe it as a thing, then that description has already become another happening inside experience.
+
+“Seeing as a whole” means seeing that even “you” are included.
+
+What happens outside is happening.  
+What happens inside is happening.  
+The thought about the outside is happening.  
+The feeling about the inside is happening.  
+The sense of being the one who experiences inside is also happening.
+
+So the boundary between inside and outside becomes less solid.
+
+There is no separate inner world owned by “me” standing apart from an outer world called “reality.”
+
+There is just one whole field of happenings.
+
+The seer, the seen, the seeing, the interpretation, the emotion, and the question itself are all included.
+
+That is seeing as a whole.
+
+And maybe that is why it can be called seeing from the source.
+
 ## Why I am writing this on GitHub
 
 I am a software engineer, so this realization naturally appeared through engineering metaphors.
