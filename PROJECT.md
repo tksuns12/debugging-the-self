@@ -9,4 +9,5 @@ Supporting notes:
 - notes/raw-experience.md
 - notes/software-analogies.md
 - notes/seeing-as-a-whole.md
+- notes/reader-inside-the-book.md
 - DISCLAIMER.md

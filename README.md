@@ -152,6 +152,56 @@ That is seeing as a whole.
 
 And maybe that is why it can be called seeing from the source.
 
+## The reader inside the book
+
+Another way the same structure appeared was through a Zen-like question:
+
+> Who is reading the book, when the reader is also part of the book?
+
+Usually, thought assumes there is a reader outside the book.
+
+But if the book is the whole field of experience, then the reader also appears inside it.
+
+The visual field appears.  
+The meaning appears.  
+The body appears.  
+The thought “I am reading” appears.  
+The feeling of being the reader appears.
+
+Then the mind assumes:
+
+There should be someone for the book.
+
+There should be someone outside the whole thing, holding it, reading it, or owning it.
+
+But when that someone is searched for, only more experience appears.
+
+The thought about the reader appears.  
+The search for the reader appears.  
+The sense of ownership appears.  
+The pause appears.
+
+The mind tries to step outside the book, but every step is still another sentence in the book.
+
+At that point, thought has nowhere stable to stand.
+
+It does not arrive at a clever answer.
+It runs out of the structure that wanted an answer.
+
+Maybe this is why some Zen questions stop thought.
+They point back to the one who asks, until the assumed outside observer cannot be found.
+
+There is reading.  
+There is the book.  
+There is the sense of “me reading.”  
+There is the search for the one outside all of it.
+
+But the search itself is also inside the book.
+
+So for a moment, the separation between reader and book collapses.
+
+There is only the whole book reading itself.
+
 ## Why I am writing this on GitHub
 
 I am a software engineer, so this realization naturally appeared through engineering metaphors.
