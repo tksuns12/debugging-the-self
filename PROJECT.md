@@ -10,4 +10,5 @@ Supporting notes:
 - notes/software-analogies.md
 - notes/seeing-as-a-whole.md
 - notes/reader-inside-the-book.md
+- notes/the-one-and-the-movie.md
 - DISCLAIMER.md
