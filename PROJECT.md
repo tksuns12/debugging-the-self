@@ -12,4 +12,5 @@ Supporting notes:
 - notes/reader-inside-the-book.md
 - notes/the-one-and-the-movie.md
 - notes/the-true-self-and-the-free-ego.md
+- notes/reality-addiction.md
 - DISCLAIMER.md
